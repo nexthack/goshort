@@ -4,6 +4,7 @@ Inspired from https://github.com/delight-im/ShortURL .An encoding scheme
 to convert an id to a string and vice versa.Uses a space of 52 characters and
 is url safe.
 
+The auto increment id from database can be encoded and used as url shortener
 
 ## Usage
 
